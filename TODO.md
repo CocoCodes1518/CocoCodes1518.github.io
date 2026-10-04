@@ -1,0 +1,11 @@
+# Portfolio outcomes
+
+- [x] **Reference-matched composition and order:** Follow the reference flow with a fixed character scene behind Hero/About → five resume focus stops → pinned horizontal Works, while replacing the reference creator's identity and claims with the user's own details and honest placeholders.
+- [x] **Opening-screen-only controls:** Keep corner metadata and GitHub/resume actions in the opening scene; the resume action points to the on-page timeline until a file or URL is supplied, and GitHub remains disabled until a real repository URL is supplied.
+- [x] **Face-preserving character and focus decals:** Use the supplied cleaned transparent PNG as a shallow-relief mesh, keep camera turns restrained, preserve the visible face/glasses/hair, align pointer-following pupils, and use the unchanged NIMS University logo as the first number-free sticker above the eyebrows. Leave 02–05 as editable milestone placeholders.
+- [x] **Resume timeline:** Provide five semantic, resume-linked focus stops with a right-side editorial rail and camera targets.
+- [x] **Works gallery:** Provide four horizontally moving categories—Advertising, Content Creator, Products, and Side Projects—with numbered editorial panels, rows, progress, placeholder covers, and accessible detail dialogs with keyboard focus handling and Escape-to-close.
+- [x] **Requested closing sections:** Place “Why you shouldn’t hire me” immediately after Works and before Contact, with honest reason pointers, an empty personal-photo frame, and handwritten “Please hire me!”.
+- [x] **Responsive and accessible behavior:** Preserve semantic sections, visible keyboard focus, reduced-motion alternatives, readable mobile layouts, disabled-state clarity, and a visible route manifest.
+- [x] **Supplied personal details:** Replace the identity with Vasundhara / FullStack Developer / Hyderabad, India; add the provided About copy; add résumé chapters 02–05 (including the AWS/serverless focus); add the supplied email, phone, and contact location; add Projects 1–4 to Works; and replace the three candid reasons.
+- [ ] **Remaining user content:** Add the four project cover photos, missing descriptions, links, and tech stacks for Projects 1, 2, and 4; add the GitHub URL, résumé file, contact intro, personal photo, and any missing milestone assets.
